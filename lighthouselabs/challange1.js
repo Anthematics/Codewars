@@ -11,7 +11,5 @@ const GRID = [
   ["", "^", "", "", "~", "~", "", "", "", ""],
 ];
 
-const gridSize = (accumulator,currentIndex) => {
-}
-
-gridSize(GRID)
+//measure the size of the grid and return it as a string (i.e '10 x10')
+// different size grids will be checked against it so make sure it is a robust solution

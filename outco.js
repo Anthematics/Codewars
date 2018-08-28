@@ -13,6 +13,6 @@ Jason = {
   eyes: 'brown',
   annoying: 'sometimes',
   goofy: false,
-  travels: ['USA']
+  travels: ['USA','France','Netherlands']
 }
 
